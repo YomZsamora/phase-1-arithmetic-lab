@@ -11,3 +11,6 @@ let random = Math.floor(Math.random() * 10) + 1;
 let num3 = 39;
 let num4 = 5;
 const mod = 39 % 5;
+
+// Return 20 as the highest number in the set
+let max = Math.max(2, 4, 6, 8, 10, 12, 14, 16, 18, 20);
